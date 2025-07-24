@@ -1,16 +1,19 @@
 {
   "name": "@baima/exceljs",
-  "version": "4.4.2",
+  "version": "4.4.4",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
   "private": false,
   "license": "MIT",
   "author": {
-    "name": "Guyon Roche",
-    "email": "guyon@live.com"
+    "name": "Kid",
+    "email": "tech@bnocode.com"
+  },
+  "publishConfig": {
+    "registry": "https://npm.t.bnocode.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/exceljs/exceljs.git"
+    "url": "https://github.com/bnocode-com/exceljs"
   },
   "engines": {
     "node": ">=8.3.0"
